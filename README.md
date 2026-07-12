@@ -57,10 +57,20 @@ I enjoy building software that solves real-world problems and continuously learn
 
 ### 🔧 Others
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pranabkumar1234&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Pranabkumar1234&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pranabkumar1234&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 GitHub Stats
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranabkumar1234&theme=github_dark" width="100%"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Pranabkumar1234&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pranabkumar1234&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Pranabkumar1234&theme=github-dark-blue&hide_border=true"/>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pranabkumar1234&theme=radical&no-frame=false&no-bg=true&margin-w=4)
